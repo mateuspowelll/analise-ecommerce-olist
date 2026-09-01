@@ -1,5 +1,3 @@
-# analise-ecommerce-olist
-Projeto de análise de dados do e-commerce da Olist usando Python e Pandas
 # 📊 Diagnóstico de Desempenho Comercial e Logístico - E-commerce Olist
 
 > Um projeto completo de Análise de Dados simulando uma consultoria estratégica para identificar gargalos de faturamento, categorias líderes de mercado e o impacto de prazos logísticos na satisfação dos clientes.
